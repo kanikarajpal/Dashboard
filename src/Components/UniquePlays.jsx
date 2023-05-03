@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 import { VictoryChart, VictoryArea } from 'victory';
 import { scaleDiscontinuous, discontinuitySkipWeekends } from '@d3fc/d3fc-discontinuous-scale';
 
